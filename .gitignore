@@ -10,3 +10,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+.vs/TestingGrounds/v15/Solution.VC.db-wal
+.vs/TestingGrounds/v15/Solution.VC.db-shm
